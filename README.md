@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student and Freelance
 ---------------------
 
-สวัสดีครับ ผมเป็นนักศึกษาวิศวกรรมคอมพิวเตอร์นะครับ ตอนนี้สิ่งที่สนใจอยู่คือ Mobile Application , AI , NLP , EDR ครับ
-
 * 🌍  I'm based in Bangkok ,Thailand
 
 <a href="https://www.github.com/Lockps" target="_blank" rel="noreferrer"><img
